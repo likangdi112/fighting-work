@@ -1,0 +1,9 @@
+﻿<Window x:Class="Management.AwardInf"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AwardInf" Height="459" Width="584">
+    <Grid>
+        <DataGrid AutoGenerateColumns="true" Height="371" HorizontalAlignment="Left" Name="dataGrid1" VerticalAlignment="Top" Width="556" />
+        <Button Content="导出数据" Height="23" HorizontalAlignment="Left" Margin="481,388,0,0" Name="button1" VerticalAlignment="Top" Width="75" Click="button1_Click" />
+    </Grid>
+</Window>

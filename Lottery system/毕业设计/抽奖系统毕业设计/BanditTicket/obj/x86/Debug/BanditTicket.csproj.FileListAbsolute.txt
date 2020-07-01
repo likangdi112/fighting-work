@@ -1,0 +1,224 @@
+F:\My Develop\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+F:\My Develop\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+F:\My Develop\BanditTicket\BanditTicket\bin\Debug\BanditTools.dll
+F:\My Develop\BanditTicket\BanditTicket\bin\Debug\BanditTools.pdb
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\MainWindow.baml
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\Window1.baml
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\MainWindow.g.cs
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\Window1.g.cs
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.baml
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.baml
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.g.cs
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.g.cs
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\MainWindow.baml
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.baml
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Window1.baml
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Window2.baml
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Window1.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\Window2.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.baml
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sanao\Desktop\Azuki\BanditTicket\BanditTicket\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+F:\My Develop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csprojResolveAssemblyReference.cache
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.baml
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.g.cs
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.g.cs
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.baml
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+C:\Users\Bandit\Desktop\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.baml
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.g.cs
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.g.cs
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.baml
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\电商期末作业\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\实习项目\抽奖\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\实习项目\抽奖\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.baml
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\Window_setprize.baml
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\Turntable.g.cs
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.g.cs
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\Window_setprize.g.cs
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\WindowTurntable.baml
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\实习项目\抽奖\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.baml
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.g.cs
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+C:\AllDayTime\UMeHD\项目管理\团队人员\祝士强\20动态翻页\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.baml
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.g.cs
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.baml
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.g.cs
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\Regist.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\Regist.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\bin\Debug\System.Data.SQLite.dll
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\AwardInf.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\AwardInf.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改01\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csprojResolveAssemblyReference.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csprojResolveAssemblyReference.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\AwardInf.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\Regist.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\AwardInf.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\Regist.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundManagement.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改02\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csprojResolveAssemblyReference.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\Regist.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\Regist.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\学习\实训\实习项目\抽奖\BanditTicket-修改03\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\bin\Debug\BanditTicket.exe
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\bin\Debug\BanditTicket.pdb
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.baml
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\Regist.baml
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.baml
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\MessageBoxShow.g.cs
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\Regist.g.cs
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\ShowTurnTable.g.cs
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.g.cs
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\App.g.cs
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.cache
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket_MarkupCompile.lref
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BackgroundFormPic.baml
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.g.resources
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.Properties.Resources.resources
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csproj.GenerateResource.Cache
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.exe
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.pdb
+E:\毕业设计\BanditTicket_v0.4李康迪抽奖程序UI调整\BanditTicket-修改04\BanditTicket\BanditTicket\obj\x86\Debug\BanditTicket.csprojResolveAssemblyReference.cache

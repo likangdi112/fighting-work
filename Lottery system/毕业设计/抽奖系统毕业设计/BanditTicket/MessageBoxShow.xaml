@@ -1,0 +1,9 @@
+﻿<Window x:Class="BanditTicket.MessageBoxShow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="" Height="351" Width="510" WindowStyle="None" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid  Name="grid" Background="Transparent">
+        <Label Content="" Height="46" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="185,117,0,0" Name="label1" VerticalAlignment="Top" Width="123" FontSize="24" Foreground="#FFF2440C" />
+        <Button Content="确定" Height="34" HorizontalAlignment="Left" Margin="208,266,0,0" Name="button1" VerticalAlignment="Top" Width="83" Background="{x:Null}" Click="button1_Click" />
+    </Grid>
+</Window>
